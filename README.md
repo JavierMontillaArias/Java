@@ -1,32 +1,32 @@
-# Repositorio de prácticas Java – 1º DAM
+# Java Practice Repository – 1st Year of DAM
 
-Este repositorio recopila los ejercicios, proyectos y prácticas que he realizado durante el **primer año del ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM)**. Aquí muestro mi evolución aprendiendo Java desde lo más básico hasta la programación orientada a objetos y las interfaces gráficas.
+This repository contains Java exercises and projects developed during my **first year of the Multiplatform Application Development (DAM) program**. It includes fundamental programming concepts, object-oriented design, file handling, and graphical user interfaces using Swing.
 
-## Estructura del repositorio
+## Repository Structure
 
-- `EjerciciosBasicos` – Operadores, condicionales, bucles y arrays.
-- `POO` – Clases, objetos, herencia, encapsulamiento y polimorfismo.
-- `Colecciones` – Uso de estructuras dinámicas (`ArrayList`, `HashMap`, `TreeMap`, etc.).
-- `Ficheros` – Lectura y escritura de archivos de texto y binarios.
-- `InterfacesGraficas` – Interfaces desarrolladas con Swing (NetBeans).
-- `Proyectos` – Aplicaciones completas como gestores de gastos, recetas o asistencia.
+- `EjerciciosBasicos`: Basic exercises with operators, conditionals, loops, and arrays.
+- `POO`: Object-Oriented Programming (OOP): classes, inheritance, encapsulation, polymorphism.
+- `Colecciones`: Practice with Java collections such as `ArrayList`, `HashMap`, and `TreeMap`.
+- `Ficheros`: Reading and writing text and binary files using Java I/O.
+- `InterfacesGraficas`: Graphical interfaces created using Swing (NetBeans).
+- `Proyectos`: Complete applications like budget managers, recipe organizers, attendance control, and more.
 
-## Tecnologías y herramientas
+## Technologies and Tools
 
-- **Lenguaje:** Java 17  
+- **Language:** Java 17  
 - **IDE:** NetBeans  
-- **Librerías:** Swing, AWT  
-- **Persistencia:** Archivos binarios (`ObjectOutputStream` / `ObjectInputStream`)
+- **Libraries:** Swing, AWT  
+- **Data persistence:** Binary files (`ObjectOutputStream` / `ObjectInputStream`)
 
-## Objetivos de aprendizaje
+## Learning Objectives
 
-- Dominar la sintaxis básica y lógica de programación en Java.
-- Aplicar principios de diseño orientado a objetos.
-- Desarrollar interfaces gráficas funcionales y organizadas.
-- Implementar persistencia de datos usando archivos.
+- Understand and master Java syntax and basic logic.
+- Apply principles of Object-Oriented Programming in practical scenarios.
+- Build functional and well-structured graphical user interfaces.
+- Handle persistent data storage using file I/O techniques.
 
-## Estado del repositorio
+## Repository Status
 
-Este repositorio está en constante evolución. Seguiré subiendo prácticas y mejorando los proyectos a medida que avanzo en mi formación.
+This repository is actively maintained and will be expanded with new exercises and improved projects as I continue my studies.
 
 ---
